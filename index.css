@@ -14,3 +14,7 @@ body {
     box-sizing: content-box;
     padding: 0 20px;
 }
+
+.footer {
+    background: green;
+}
