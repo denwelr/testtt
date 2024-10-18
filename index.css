@@ -2,3 +2,8 @@
 body {
     color: red;
 }
+
+.header {
+    background-color: purple;
+    font-size: 1.4em;
+}
